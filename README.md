@@ -14,5 +14,7 @@ ATRIBUTOS:
 Tecnologia usada: Java (Netbeans)
 
 Imagem do projeto:
-![Screenshot](Imagemimpressora.jpg)
+![image](https://user-images.githubusercontent.com/83841092/190927324-744afe78-cd47-434e-8f70-c67541ab570b.png)
+
+
 
