@@ -1,5 +1,5 @@
 # IMPRESSORA:
-Descrição do projeto:
+Descrição do projeto:<BR>
 O projeto é feito em java onde o usuário insere algumas informações dos atributos que segue abaixo armazenando em um arquivo .CSV
 
 OBJETO: Impressora
