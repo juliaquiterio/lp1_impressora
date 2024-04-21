@@ -1,22 +1,26 @@
-### Descrição
+pull_request_template:
+  - name: "Descrição de Pull Request"
+    about: "Padrão de descrição para Pull Requests"
+    body: |
+      ### Descrição
 
-[Descrição detalhada das alterações feitas no pull request]
+      [Descrição detalhada das alterações feitas no pull request]
 
-### Issue Relacionada
+      ### Issue Relacionada
 
-[Referência à issue relacionada, se aplicável]
+      [Referência à issue relacionada, se aplicável]
 
-### Tipo de Mudança
+      ### Tipo de Mudança
 
-[Escolha um dos tipos: Feature, Fix, Refactor, Documentation, etc.]
+      [Escolha um dos tipos: Feature, Fix, Refactor, Documentation, etc.]
 
-### Checklist
+      ### Checklist
 
-- [ ] Os testes foram adicionados ou atualizados para refletir as alterações feitas
-- [ ] A documentação foi atualizada, se necessário
-- [ ] Todos os testes passaram
-- [ ] A mudança segue os padrões de código do projeto
+      - [ ] Os testes foram adicionados ou atualizados para refletir as alterações feitas
+      - [ ] A documentação foi atualizada, se necessário
+      - [ ] Todos os testes passaram
+      - [ ] A mudança segue os padrões de código do projeto
 
-### Observações Adicionais
+      ### Observações Adicionais
 
-[Qualquer informação adicional relevante]
+      [Qualquer informação adicional relevante]
