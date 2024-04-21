@@ -1,0 +1,22 @@
+### Descrição
+
+[Descrição detalhada das alterações feitas no pull request]
+
+### Issue Relacionada
+
+[Referência à issue relacionada, se aplicável]
+
+### Tipo de Mudança
+
+[Escolha um dos tipos: Feature, Fix, Refactor, Documentation, etc.]
+
+### Checklist
+
+- [ ] Os testes foram adicionados ou atualizados para refletir as alterações feitas
+- [ ] A documentação foi atualizada, se necessário
+- [ ] Todos os testes passaram
+- [ ] A mudança segue os padrões de código do projeto
+
+### Observações Adicionais
+
+[Qualquer informação adicional relevante]
